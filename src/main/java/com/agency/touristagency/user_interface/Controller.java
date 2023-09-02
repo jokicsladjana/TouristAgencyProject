@@ -42,7 +42,7 @@ public class Controller {
             return addDestinationStage;
         }
 
-        public void setAddDestinationStageStage(Stage addDestinationStage) {
+        public void setAddDestinationStage (Stage addDestinationStage) {
             this.addDestinationStage = addDestinationStage;
         }
 

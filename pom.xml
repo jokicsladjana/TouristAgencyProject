@@ -67,11 +67,11 @@
             <artifactId>jakarta.security.enterprise-api</artifactId>
             <version>3.0.0</version>
         </dependency>
-       <!-- <dependency>
+        <dependency>
             <groupId>jakarta.persistence</groupId>
             <artifactId>jakarta.persistence-api</artifactId>
             <version>3.0.0</version>
-        </dependency>-->
+        </dependency>
     </dependencies>
 
     <build>
